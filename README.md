@@ -109,4 +109,29 @@ Codes Executed:
 # SALES DATA ANALYSIS AND VISUALIZATION
 
 Use Case - Processing, Analysing and Visualizing the Sales data
-Libraries Used - Pandas, MatPlotLib, Seaborn
+Libraries Used - Pandas, MatPlotLib, Seaborn.
+
+Code Executed:
+1. Imported Dataset
+2. Data Exploration
+3. Data Cleaning
+4. Data Description
+5. Visualize Sales Trend by Months(Plots)
+6. Display Most Selling Products
+7. Top 10 Most Sales Products
+8. Top 10 Most Quantity Selling Products items
+9. Data Visualization
+10. Distribution of Shiping Modes
+11. Most Profitable Product Categories & sub Categories
+12. Top 10 Customers
+13. Most Selling Segments
+14. Segments By Selling Quantity
+15. Segments By Profit
+16. Top 15 Country by Sales
+17. Sub- Categories by Shiping cost
+18. Discounts by sub - Categories
+19. Distribution of days to shipment
+20. Sales by Market
+
+# Final Walmart Sales Data Project
+
